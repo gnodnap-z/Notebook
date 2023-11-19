@@ -1,2 +1,2 @@
 # Notebook
-A places to keep my reading notes
+A place to keep my reading notes
